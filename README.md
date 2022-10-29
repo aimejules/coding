@@ -16,3 +16,5 @@ Prise en main technique
 
 Odoo Scalup
 -----------
+1.Live coding
+2.Smart Class
