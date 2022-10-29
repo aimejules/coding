@@ -9,3 +9,6 @@ Live coding for Odoo Training
 Prise en main fonctionnel
 -------------------------
 
+
+Prise en main technique
+-----------------------
